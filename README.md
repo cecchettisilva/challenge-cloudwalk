@@ -1,4 +1,4 @@
-# Quake Log Parser
+# Quake Log Parserr
 
 A simple collection of Python scripts to parse and analyze Quake game log files. Extracts information about kills, players, matches, and generates various reports.
 This is a challenge created for Cloud Walk (CW). 
